@@ -10,4 +10,11 @@ Output will be:
 [outputprefix]seqeunces
 [outputprefix]check
 
+For splittree.py, run as:
+python splittree.py -s [sequences] -o [output directory]
+
+Output will be:
+[output directory]file
+[output directory]species
+
 
